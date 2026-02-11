@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Grafos | Porque se trabaja con nodos y calculos de caminos, es un caso apropiado para este tipo de base de datos

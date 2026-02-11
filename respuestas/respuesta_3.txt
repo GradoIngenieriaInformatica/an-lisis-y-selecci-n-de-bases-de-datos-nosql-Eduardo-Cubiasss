@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Clave–valor | Es ideal para un caso como este donde necesitamos gestionar accesos y donde se necesita un rendimiento alto de lectura y escritura sin una estructura exacta
